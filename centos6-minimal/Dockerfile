@@ -1,6 +1,3 @@
-# CentOS 6 Minimal, makeself is required in most cases to create packages from
-# dirs outside current working dir
-#
 FROM centos:6.6
 MAINTAINER Zachary M. Zhao <zacharyzhao@yahoo.com>
 
